@@ -1,0 +1,789 @@
+{
+    "collectableSaves": [
+        {
+            "id": "bbox",
+            "state": 1,
+            "type": 1
+        },
+        {
+            "id": "mngr",
+            "state": 0,
+            "type": 1
+        },
+        {
+            "id": "btn",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "chlng",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "dor",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "eq",
+            "state": 0,
+            "type": 1
+        },
+        {
+            "id": "mnbtn",
+            "state": 1,
+            "type": 1
+        },
+        {
+            "id": "vlv",
+            "state": 1,
+            "type": 1
+        },
+        {
+            "id": "prntr",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "rtr",
+            "state": 0,
+            "type": 1
+        },
+        {
+            "id": "spn",
+            "state": 0,
+            "type": 1
+        },
+        {
+            "id": "tckr",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "tgl",
+            "state": 4,
+            "type": 1
+        },
+        {
+            "id": "ZS",
+            "state": 1,
+            "type": 1
+        },
+        {
+            "id": "elvtr",
+            "state": 0,
+            "type": 1
+        },
+        {
+            "id": "cassette_searching",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "silverWorldTokenDesktop",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "drawerMPtoken2",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "goldMP3",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "silverWorldToken",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "drawerMPtoken1",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "bronzePrinterToken1",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "silverWorldTokenTarp",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "goldMP1",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "goldMP2",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "bronzePrinterToken2",
+            "state": 2,
+            "type": 0
+        },
+        {
+            "id": "cassette_driftaway",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "cassette_smother",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "cassette_longing",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "cassette_distant",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "cassette_tranquility",
+            "state": 1,
+            "type": 0
+        },
+        {
+            "id": "cassette_ideafix",
+            "state": 2,
+            "type": 2
+        },
+        {
+            "id": "cassette_replika",
+            "state": 2,
+            "type": 0
+        }
+    ],
+    "stats": [
+        {
+            "stat": "cassettes_total",
+            "value": 3.0
+        },
+        {
+            "stat": "mechanism_purchases_total",
+            "value": 6.0
+        },
+        {
+            "stat": "ticks_total",
+            "value": 904.0
+        },
+        {
+            "stat": "mechanism_upgrades_total",
+            "value": 1.0
+        }
+    ],
+    "achievements": [],
+    "machineSaves": [
+        {
+            "machineID": "myMachine",
+            "mechanismSaves": [
+                {
+                    "id": "btn",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "tgl",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "vlv",
+                    "isOn": true,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "eq",
+                    "isOn": false,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "gnr",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "tckr",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "prntr",
+                    "isOn": true,
+                    "mechanismLevel": 1,
+                    "saveFlags": []
+                },
+                {
+                    "id": "rtr",
+                    "isOn": false,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "dor",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "mngr",
+                    "isOn": true,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "mnbtn",
+                    "isOn": false,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "spn",
+                    "isOn": false,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "chlng",
+                    "isOn": true,
+                    "mechanismLevel": 0,
+                    "saveFlags": []
+                },
+                {
+                    "id": "elvtr",
+                    "isOn": true,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "bbox",
+                    "isOn": true,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                },
+                {
+                    "id": "zs",
+                    "isOn": false,
+                    "mechanismLevel": -2,
+                    "saveFlags": []
+                }
+            ],
+            "replacedNodeSaves": [],
+            "resourceSaves": [
+                {
+                    "resource": 0,
+                    "currentAmount": 80.0,
+                    "maxRate": 3.0,
+                    "totalOverflow": 0.0
+                },
+                {
+                    "resource": 1,
+                    "currentAmount": 0.0,
+                    "maxRate": 0.0,
+                    "totalOverflow": 0.0
+                },
+                {
+                    "resource": 2,
+                    "currentAmount": 95.90921783447266,
+                    "maxRate": 0.0,
+                    "totalOverflow": 0.0
+                },
+                {
+                    "resource": 3,
+                    "currentAmount": 0.0,
+                    "maxRate": 0.0,
+                    "totalOverflow": 0.0
+                },
+                {
+                    "resource": 4,
+                    "currentAmount": 0.0,
+                    "maxRate": 0.0,
+                    "totalOverflow": 0.0
+                }
+            ],
+            "challengeSaves": [
+                {
+                    "flag": 4009,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4008,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4005,
+                    "progress": 6.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4006,
+                    "progress": 6.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4007,
+                    "progress": 6.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4001,
+                    "progress": 2.0,
+                    "isCompleted": true,
+                    "isRewardCollected": true
+                },
+                {
+                    "flag": 4002,
+                    "progress": 3.0,
+                    "isCompleted": true,
+                    "isRewardCollected": true
+                },
+                {
+                    "flag": 4003,
+                    "progress": 4.0,
+                    "isCompleted": true,
+                    "isRewardCollected": true
+                },
+                {
+                    "flag": 4004,
+                    "progress": 5.0,
+                    "isCompleted": true,
+                    "isRewardCollected": true
+                },
+                {
+                    "flag": 10001,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 10002,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 10003,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 10004,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 10005,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 16,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 10000,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 6003,
+                    "progress": 3.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3000,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3002,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3001,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3003,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2000,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 5002,
+                    "progress": 1.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 5003,
+                    "progress": 1.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 5004,
+                    "progress": 1.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 5001,
+                    "progress": 1.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 5000,
+                    "progress": 1.0,
+                    "isCompleted": true,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3009,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2007,
+                    "progress": 1.0,
+                    "isCompleted": true,
+                    "isRewardCollected": true
+                },
+                {
+                    "flag": 2002,
+                    "progress": 3.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2004,
+                    "progress": 3.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2005,
+                    "progress": 3.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2001,
+                    "progress": 3.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3008,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3004,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3006,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3005,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 3007,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2006,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 2003,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 14,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 6000,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 6002,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 6001,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                },
+                {
+                    "flag": 4010,
+                    "progress": 0.0,
+                    "isCompleted": false,
+                    "isRewardCollected": false
+                }
+            ],
+            "meatifiedNodeSaves": []
+        }
+    ],
+    "saveFlags": [
+        1,
+        7,
+        8,
+        4001,
+        33,
+        4002,
+        22,
+        57,
+        2007,
+        4003,
+        26,
+        4004,
+        27,
+        2,
+        13,
+        55,
+        3,
+        46,
+        12,
+        54,
+        4,
+        9
+    ],
+    "logSaves": [
+        {
+            "LogID": "bpmUnlockLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "challengeTrackerLog",
+            "IsComplete": true,
+            "IsRead": false,
+            "TimeCompletedAt": 638976786943983452
+        },
+        {
+            "LogID": "elevatorUnlockedLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "energyOverflowLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "generatorExplodedLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "goOutsiudeSafe",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "goOutsiudeUnsafe",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976785557391326
+        },
+        {
+            "LogID": "heavy_drawer_log",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976770648930865
+        },
+        {
+            "LogID": "ideaSeed",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "mnbtnBought",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "neighbourMetLog",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976785557391326
+        },
+        {
+            "LogID": "notExploding",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "printerLog",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976770615579061
+        },
+        {
+            "LogID": "tickerLog",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976769832206808
+        },
+        {
+            "LogID": "underPressureLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "upgradesLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmBurrowing",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmDoorLog",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976775569432850
+        },
+        {
+            "LogID": "wurmElevatorLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmHelloLog",
+            "IsComplete": true,
+            "IsRead": true,
+            "TimeCompletedAt": 638976771248700578
+        },
+        {
+            "LogID": "wurmMovement1",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmMovement2",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmPressureUnlockLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmStrength2",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmStrength",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "wurmUnderstanding",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        },
+        {
+            "LogID": "zuitSaysLog",
+            "IsComplete": false,
+            "IsRead": false,
+            "TimeCompletedAt": -1
+        }
+    ],
+    "lastScene": "MyMachine",
+    "lastSpawnPoint": "MyMachineInside",
+    "lastSaveTime": 638976787141557454,
+    "playerName": "admin"
+}
